@@ -4,9 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is like a stepping stone for a Flutter app.
 
-A few resources to get you started if this is your first Flutter project:
+Here are a couple of resources to help you get going if this is your first time working on a Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
